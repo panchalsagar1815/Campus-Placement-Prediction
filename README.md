@@ -1,6 +1,6 @@
 # Campus-Placement-Prediction
 
-#**Project Title: Campus Placement Prediction**
+# **Project Title: Campus Placement Prediction**
 
 **Overview:**
 The "Campus Placement Prediction" project aims to build a predictive model that forecasts the placement status and salary of students based on various features such as academic performance, gender, work experience, and more. By leveraging data cleaning, preprocessing, and a sophisticated model, this project provides valuable insights for students, universities, and recruiters in anticipating placement outcomes.
