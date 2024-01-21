@@ -9,7 +9,7 @@ The "Campus Placement Prediction" project aims to build a predictive model that 
 
 1. **Data Collection and Cleaning:**
    - Compiled a comprehensive dataset including features like sl_no, gender, ssc_p, ssc_b, hsc_p, hsc_b, hsc_s, degree_p, degree_t, workex, etest_p, specialisation, mba_p, status, and salary.
-   - Applied data cleaning techniques to handle missing values, outliers, and ensure data integrity.
+   - Applied data cleaning techniques to handle missing values, and outliers, and ensure data integrity.
    - Ensured consistency and accuracy in the dataset to enhance the reliability of predictions.
 
 2. **Data Visualization:**
