@@ -1,4 +1,4 @@
-# Campus-Placement
+# Campu
 # **Project Title: Campus Placement Prediction**
 
 **Overview:**
